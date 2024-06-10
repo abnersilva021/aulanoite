@@ -1,0 +1,27 @@
+body{
+    background-color: purple;
+}
+.container{
+    width: 500px;
+    margin: 50px auto;
+    padding: 50px;
+    border: 2px black solid;
+    background-color: white;
+}
+.container h1{
+    text-align: center;
+}
+.container p{
+    font-size: 15pt;
+
+}
+.container span{
+    font-size: 15pt;
+    font-weight: 900;
+}
+.img {
+    width: 100px;
+    
+}
+
+
