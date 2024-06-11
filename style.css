@@ -23,5 +23,12 @@ body{
     width: 100px;
     
 }
+.quadrado{
+    width: 250px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 2px black solid;
+    background-color: white;
+}
 
 
