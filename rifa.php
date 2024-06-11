@@ -27,12 +27,15 @@
     <p>Email:</p>
     <img style='width: 350px;' src=https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw49e3bbf6/pdp/JBL_Boombox_3_Lifestyle01_904x560px.png?sw=904&sh=560
   
+    
   />
-
-
-  
    </div>";
-   
+   echo"<div class ='quadrado'> 
+    <p>Premio: JBL</p>
+    <p>Nome:</p>
+    <p>Telefone:</p>
+    <p>Email:</p>
+   </div>";
    
     ?>
 
