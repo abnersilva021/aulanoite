@@ -2,7 +2,7 @@ body{
     background-color: purple;
 }
 .container{
-    width: 500px;
+    width: 550px;
     margin: 50px auto;
     padding: 50px;
     border: 2px black solid;
@@ -14,14 +14,15 @@ body{
 .container p{
     font-size: 15pt;
 
+
 }
 .container span{
     font-size: 15pt;
     font-weight: 900;
 }
-.img {
-    width: 100px;
-    
+.img{
+    width: 200px;
+    height: 160px;
 }
 .quadrado{
     width: 250px;
@@ -30,5 +31,3 @@ body{
     border: 2px black solid;
     background-color: white;
 }
-
-
